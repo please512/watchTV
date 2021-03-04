@@ -1,6 +1,6 @@
-# ckplayer_demo
+# video.js
 
-> ckplay播放器在项目中使用直播流的演示demo
+> video.js播放http协议各中央台及卫视直播，支持切换频道收看。
 
 ## Build Setup
 
